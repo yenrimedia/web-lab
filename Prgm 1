@@ -39,5 +39,6 @@ It preserves spaces and line breaks.
     <p>This is <del>deleted</del> text.</p>
     <p>This is <ins>inserted</ins> text.</p>
     <p>This is <code>inline code</code> text.</p>
+
 </body>
 </html>
